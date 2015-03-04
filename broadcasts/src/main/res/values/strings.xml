@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">[guides] - Broadcast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="simple_broadcast">Simple Broadcast</string>
+    <string name="send_broadcast">Send Broadcast Message</string>
+    <string name="global_broadcast">Simple Global Broadcast</string>
+    <string name="other_thread_broadcast">Other Thread BroadcastReceiver</string>
+    <string name="ordered_broadcast">Ordered BroadcastReceiver</string>
+    <string name="register_broadcast">Register BroadcastReceiver</string>
+    <string name="sticky_broadcast">Sticky BroadcastReceiver</string>
+
+</resources>

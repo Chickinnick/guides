@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">[примеры] - Broadcast</string>
+    <string name="simple_broadcast">Обычный BroadcastReceiver</string>
+    <string name="send_broadcast">Отправить Сообщение</string>
+    <string name="global_broadcast">Обычный Глобальный(Статический) BroadcastReceiver</string>
+    <string name="other_thread_broadcast">Запуск в другом потоке BroadcastReceiver</string>
+    <string name="ordered_broadcast">Ordered BroadcastReceiver</string>
+    <string name="register_broadcast">Зарегистрировать BroadcastReceiver</string>
+    <string name="sticky_broadcast">Sticky BroadcastReceiver</string>
+
+</resources>
