@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">[примеры] - dialogs</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="text_ok">Принять</string>
+    <string name="text_cancel">Отклонить</string>
+    <string name="simple_dialog">Обычный AlertDialog</string>
+    <string name="simple_dialog_title">Обычный AlertDialog с Заголовком</string>
+    <string name="simple_dialog_list">Обычный AlertDialog со Списком</string>
+    <string name="simple_dialog_list_multi">Обычный AlertDialog с Множественым Выбором</string>
+    <string name="hello_world_title">Title of Hello World</string>
+    <string name="simple_dialog_list_single">Обычный AlertDialog с Единичным Выбором</string>
+    <string name="simple_dialog_time">Обычный TimePickerDialog</string>
+    <string name="simple_dialog_date">Обычный DatePickerDialog</string>
+    <string name="simple_dialog_progress">Обычный ProgressDialog</string>
+    <string name="custom_dialog">AlertDialog c другим отображением</string>
+
+    <string-array name="hello_world">
+        <item>Привет мир!</item>
+        <item>Привет мне!</item>
+        <item>Привет тебе!</item>
+    </string-array>
+</resources>

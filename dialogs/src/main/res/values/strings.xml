@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">[guides] - dialogs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_ok">Accept</string>
+    <string name="text_cancel">Dismiss</string>
+    <string name="simple_dialog">Simple AlertDialog</string>
+    <string name="simple_dialog_title">Simple AlertDialog with Title</string>
+    <string name="simple_dialog_list">Simple AlertDialog with List</string>
+    <string name="simple_dialog_list_multi">Simple AlertDialog with Multi Choice</string>
+    <string name="hello_world_title">Title of Hello World</string>
+    <string name="simple_dialog_list_single">Simple AlertDialog with Single Choice</string>
+    <string name="simple_dialog_time">Simple TimePickerDialog</string>
+    <string name="simple_dialog_date">Simple DatePickerDialog</string>
+    <string name="simple_dialog_progress">Simple ProgressDialog</string>
+    <string name="custom_dialog">AlertDialog with Custom View</string>
+
+    <string-array name="hello_world">
+        <item>Hello world!</item>
+        <item>Hello me!</item>
+        <item>Hello you!</item>
+    </string-array>
+</resources>
