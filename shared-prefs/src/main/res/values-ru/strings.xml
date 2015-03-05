@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[примеры] - shared-prefs</string>
+    <string name="add_int">Добавить Integer</string>
+    <string name="add_string">Добавить String</string>
+    <string name="read">Прочитать из SharedPreferences</string>
+</resources>
