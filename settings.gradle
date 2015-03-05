@@ -1,1 +1,1 @@
-include ':broadcasts', ':files', ':shared-prefs', ':dialogs'
+include ':broadcasts', ':files', ':shared-prefs', ':dialogs', ':notifications'

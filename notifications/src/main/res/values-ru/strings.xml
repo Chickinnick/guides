@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">[примеры] - notifications</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="show_notification">Показать уведомление</string>
+    <string name="show_unclear_notification">Показать незакрываемое уведомление</string>
+    <string name="cancel_notification">Удалить ведомление</string>
+
+</resources>

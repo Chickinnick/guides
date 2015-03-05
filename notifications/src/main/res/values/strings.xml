@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">[guides] - notifications</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="show_unclear_notification">Show Not Closable Notification</string>
+    <string name="cancel_notification">Cancel Notification</string>
+
+</resources>
