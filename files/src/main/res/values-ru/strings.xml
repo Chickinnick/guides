@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">[примеры] - FileSystem</string>
+    <string name="list_sd_card">Список файлов на SD Card</string>
+    <string name="list_cache">Список файлов в cache</string>
+    <string name="create_file_on_sd_card">Создать файл на SD Card</string>
+    <string name="create_file_on_cache">Создать файл в cache</string>
+    <string name="write_file">Записать в файл</string>
+    <string name="read_file">Прочитать из файла</string>
+
+</resources>

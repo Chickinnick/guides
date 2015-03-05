@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">[guides] - FileSystem</string>
+    <string name="list_sd_card">Files on SD-Card</string>
+    <string name="list_cache">Files in cache</string>
+    <string name="create_file_on_sd_card">Create File On SD Card</string>
+    <string name="create_file_on_cache">Create File On Cache</string>
+    <string name="write_file">Write To File</string>
+    <string name="read_file">Read File</string>
+
+</resources>

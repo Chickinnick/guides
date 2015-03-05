@@ -1,1 +1,1 @@
-include ':broadcasts'
+include ':broadcasts', ':files'
