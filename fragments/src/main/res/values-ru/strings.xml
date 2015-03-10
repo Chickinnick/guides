@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="simple_fragment">Simple Fragment</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="switcher_fragment">Switcher Fragment</string>
+    <string name="next">Next</string>
+    <string name="back_stack">Fragments with Back Stack</string>
+    <string name="tabs">Fragments in TabWidget</string>
+    <string name="pager">Fragments in ViewPager</string>
+    <string name="action_bar_tabs">Fragments in ActionBar with Tabs</string>
+    <string name="pager_tabs">Fragments in ViewPager with Tabs style</string>
+    <string name="drawer">Fragments with NavigationDrawer</string>
+</resources>
