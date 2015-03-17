@@ -8,8 +8,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class StudentsDbHelper extends SQLiteOpenHelper {
 
     private static final String CREATE_STUDENTS =
-            "CREATE TABLE " + StudentContract.StudentEntry.TABLE_NAME + " (" +
-                    StudentContract.StudentEntry._ID + " INTEGER PRIMARY KEY," +
+            "CREATE TABLE IF NOT EXISTS " + StudentContract.StudentEntry.TABLE_NAME + " (" +
+                    StudentContract.StudentEntry._ID + " INTEGER PRIMARY KEY AUTOINCREMENT," +
                     StudentContract.StudentEntry.COLUMN_NAME_NAME + " TEXT," +
                     StudentContract.StudentEntry.COLUMN_NAME_AGE + " INTEGER)";
 
