@@ -66,8 +66,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:height="50dp"
-            android:text="@string/text_view_text" />
+            android:text="TextView" />
 
         <Space
             android:layout_width="match_parent"
@@ -76,7 +75,9 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_text_center"/>
+            android:height="50dp"
+            android:gravity="bottom"
+            android:text="TextView with modified area text by height"/>
 
         <View
             android:layout_width="match_parent"

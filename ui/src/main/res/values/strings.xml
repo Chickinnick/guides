@@ -7,4 +7,6 @@
     <string name="text_view_text">TextView</string>
     <string name="text_view_red_color">TextView with red color only</string>
     <string name="text_view_text_center">TextView with text in center</string>
+    <string name="text_view_3">TextView</string>
+    <string name="text_view_text_height">TextView with modified area text by height</string>
 </resources>
