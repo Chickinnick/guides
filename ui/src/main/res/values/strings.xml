@@ -12,6 +12,6 @@
     <string name="text_view_four">TextView</string>
     <string name="text_view_text_drawableBottom">TextView with a change canvas below the text</string>
     <string name="text_view_text_drawableEnd">TextView with a change canvas at the end the text</string>
-    <string name="text_view_text_drawableTop">TextView with a change canvas top the text</string>
-
+    <string name="text_view_five">TextView</string>
+    <string name="text_view_text_ellipsize">TextView with use ellipsize in the text Text View with a change</string>
 </resources>
