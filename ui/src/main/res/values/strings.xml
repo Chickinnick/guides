@@ -14,4 +14,6 @@
     <string name="text_view_text_drawableEnd">TextView with a change canvas at the end the text</string>
     <string name="text_view_five">TextView</string>
     <string name="text_view_text_ellipsize">TextView with use ellipsize in the text Text View with a change</string>
+    <string name="text_view_six">TextView</string>
+    <string name="text_view_text_fontFamily">If set, causes words that are longer than the view</string>
 </resources>
