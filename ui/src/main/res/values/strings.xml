@@ -9,4 +9,9 @@
     <string name="text_view_text_center">TextView with text in center</string>
     <string name="text_view_3">TextView</string>
     <string name="text_view_text_height">TextView with modified area text by height</string>
+    <string name="text_view_four">TextView</string>
+    <string name="text_view_text_drawableBottom">TextView with a change canvas below the text</string>
+    <string name="text_view_text_drawableEnd">TextView with a change canvas at the end the text</string>
+    <string name="text_view_text_drawableTop">TextView with a change canvas top the text</string>
+
 </resources>

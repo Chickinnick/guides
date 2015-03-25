@@ -66,7 +66,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="@string/text_view_3"/>
 
         <Space
             android:layout_width="match_parent"
@@ -77,7 +77,51 @@
             android:layout_height="wrap_content"
             android:height="50dp"
             android:gravity="bottom"
-            android:text="TextView with modified area text by height"/>
+            android:text="@string/text_view_text_height"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dip"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:background="@android:color/black"/>
+
+        <!--Пример с использованием холста ниже текста-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_view_four"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="6dip"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableBottom="@mipmap/ic_launcher"
+            android:text="@string/text_view_text_drawableBottom"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="6dip"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@mipmap/ic_launcher"
+            android:text="@string/text_view_text_drawableEnd"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="6dip"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableTop="@mipmap/ic_launcher"
+            android:text="@string/text_view_text_drawableTop"/>
 
         <View
             android:layout_width="match_parent"
