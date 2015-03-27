@@ -20,4 +20,15 @@
     <string name="text_view_text_lineSpacingExtra">TextView with a change lineSpacingExtra the text TextView with a change lineSpacingExtra the text TextView with a change lineSpacingExtra the text</string>
     <string name="text_view_eight">TextView</string>
     <string name="text_view_text_lineSpacingMultiplier">TextView with a change lineSpacingMultiplier the text</string>
+    <string name="text_view_nine">TextView</string>
+    <string name="text_view_text_line">TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text</string>
 </resources>

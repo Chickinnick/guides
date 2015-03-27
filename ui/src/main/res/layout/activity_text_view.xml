@@ -238,7 +238,7 @@
             android:layout_marginBottom="@dimen/activity_vertical_margin"
             android:background="@android:color/black"/>
 
-        <!--Пример с использованием android:lineSpacingMultiplier в тексте-->
+        <!--Пример с использованием lineSpacingMultiplier в тексте-->
 
         <TextView
             android:layout_width="match_parent"
@@ -255,6 +255,31 @@
             android:layout_height="wrap_content"
             android:lineSpacingMultiplier="2.5"
             android:text="@string/text_view_text_lineSpacingMultiplier"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dip"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:background="@android:color/black"/>
+
+        <!--Пример с использованием -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_view_nine"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="6dip"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="4"
+            android:text="@string/text_view_text_line"/>
 
         <View
             android:layout_width="match_parent"
