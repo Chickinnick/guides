@@ -12,7 +12,7 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <TextView
             android:layout_width="match_parent"
@@ -186,6 +186,31 @@
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif-light"
             android:text="@string/text_view_text_fontFamily"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dip"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:background="@android:color/black"/>
+
+        <!--Пример с использованием lineSpacingExtra с текстом-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_view_seven"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="6dip"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="@dimen/abc_text_size_caption_material"
+            android:text="@string/text_view_text_lineSpacingExtra"/>
 
         <View
             android:layout_width="match_parent"
