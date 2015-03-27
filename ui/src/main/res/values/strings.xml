@@ -18,4 +18,6 @@
     <string name="text_view_text_fontFamily">If set, causes words that are longer than the view</string>
     <string name="text_view_seven">TextView</string>
     <string name="text_view_text_lineSpacingExtra">TextView with a change lineSpacingExtra the text TextView with a change lineSpacingExtra the text TextView with a change lineSpacingExtra the text</string>
+    <string name="text_view_eight">TextView</string>
+    <string name="text_view_text_lineSpacingMultiplier">TextView with a change lineSpacingMultiplier the text</string>
 </resources>
