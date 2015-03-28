@@ -41,4 +41,5 @@
         TextView with a change maxLines the text</string>
 
     <string name="text_view_text_minLines">TextView with a change minLines the text TextView with a change minLines the text</string>
+    <string name="text_view_text_maxLength">TextView with a change maxLength the text</string>
 </resources>
