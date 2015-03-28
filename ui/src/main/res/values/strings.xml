@@ -7,20 +7,20 @@
     <string name="text_view_text">TextView</string>
     <string name="text_view_red_color">TextView with red color only</string>
     <string name="text_view_text_center">TextView with text in center</string>
-    <string name="text_view_3">TextView</string>
+
     <string name="text_view_text_height">TextView with modified area text by height</string>
-    <string name="text_view_four">TextView</string>
+
     <string name="text_view_text_drawableBottom">TextView with a change canvas below the text</string>
     <string name="text_view_text_drawableEnd">TextView with a change canvas at the end the text</string>
-    <string name="text_view_five">TextView</string>
+
     <string name="text_view_text_ellipsize">TextView with use ellipsize in the text Text View with a change</string>
-    <string name="text_view_six">TextView</string>
+
     <string name="text_view_text_fontFamily">If set, causes words that are longer than the view</string>
-    <string name="text_view_seven">TextView</string>
+
     <string name="text_view_text_lineSpacingExtra">TextView with a change lineSpacingExtra the text TextView with a change lineSpacingExtra the text TextView with a change lineSpacingExtra the text</string>
-    <string name="text_view_eight">TextView</string>
+
     <string name="text_view_text_lineSpacingMultiplier">TextView with a change lineSpacingMultiplier the text</string>
-    <string name="text_view_nine">TextView</string>
+
     <string name="text_view_text_line">TextView with a change line the text
         TextView with a change line the text TextView with a change line the text TextView with a change line the text
         TextView with a change line the text TextView with a change line the text TextView with a change line the text
@@ -31,10 +31,14 @@
         TextView with a change line the text TextView with a change line the text TextView with a change line the text
         TextView with a change line the text TextView with a change line the text TextView with a change line the text
         TextView with a change line the text TextView with a change line the text</string>
-    <string name="text_view_ten">TextView</string>
+
     <string name="text_view_text_linksClickable">developer.android.com</string>
-    <string name="text_view_eleven">TextView</string>
-    <string name="text_view_text_marqueeRepeatLimit">TextView with a change marqueeRepeatLimit the text  TextView with a change line the text TextView with a change line the text TextView with a change line the text
-        TextView with a change line the text TextView with a change line the text TextView with a change line the text
-        TextView with a change line the text TextView with a change line the text TextView with a change line the text</string>
+
+    <string name="text_view_text_maxLines">TextView with a change maxLines the text
+        TextView with a change maxLines the text TextView with a change maxLines the text
+        TextView with a change maxLines the text TextView with a change maxLines the text
+        TextView with a change maxLines the text TextView with a change maxLines the text
+        TextView with a change maxLines the text</string>
+
+    <string name="text_view_text_minLines">TextView with a change minLines the text TextView with a change minLines the text</string>
 </resources>

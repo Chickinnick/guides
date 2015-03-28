@@ -66,7 +66,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_3"/>
+            android:text="@string/text_view_text"/>
 
         <Space
             android:layout_width="match_parent"
@@ -91,7 +91,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_four"/>
+            android:text="@string/text_view_text"/>
 
         <Space
             android:layout_width="match_parent"
@@ -125,7 +125,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_five"
+            android:text="@string/text_view_text"
             />
 
         <Space
@@ -174,7 +174,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_six"
+            android:text="@string/text_view_text"
             />
 
         <Space
@@ -199,7 +199,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_seven"/>
+            android:text="@string/text_view_text"/>
 
         <Space
             android:layout_width="match_parent"
@@ -243,7 +243,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_eight"
+            android:text="@string/text_view_text"
             />
 
         <Space
@@ -263,12 +263,12 @@
             android:layout_marginBottom="@dimen/activity_vertical_margin"
             android:background="@android:color/black"/>
 
-        <!--Пример с использованием -->
+        <!--Пример с использованием lines с текстом-->
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_nine"
+            android:text="@string/text_view_text"
             />
 
         <Space
@@ -293,7 +293,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_ten"
+            android:text="@string/text_view_text"
             />
 
         <Space
@@ -318,7 +318,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/text_view_eleven"
+            android:text="@string/text_view_text"
             />
 
         <Space
@@ -330,7 +330,7 @@
             android:layout_height="wrap_content"
             android:background="@android:color/holo_blue_light"
             android:maxLines="7"
-            android:text="@string/text_view_text_marqueeRepeatLimit"/>
+            android:text="@string/text_view_text_maxLines"/>
 
         <View
             android:layout_width="match_parent"
@@ -338,5 +338,33 @@
             android:layout_marginTop="@dimen/activity_vertical_margin"
             android:layout_marginBottom="@dimen/activity_vertical_margin"
             android:background="@android:color/black"/>
+
+        <!--Пример с использованием minLines с текстом-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_view_text"
+            />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="6dip"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_green_light"
+            android:minLines="5"
+            android:text="@string/text_view_text_minLines"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dip"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:background="@android:color/black"/>
+
+
     </LinearLayout>
 </ScrollView>
