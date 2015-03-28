@@ -33,4 +33,8 @@
         TextView with a change line the text TextView with a change line the text</string>
     <string name="text_view_ten">TextView</string>
     <string name="text_view_text_linksClickable">developer.android.com</string>
+    <string name="text_view_eleven">TextView</string>
+    <string name="text_view_text_marqueeRepeatLimit">TextView with a change marqueeRepeatLimit the text  TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text
+        TextView with a change line the text TextView with a change line the text TextView with a change line the text</string>
 </resources>
